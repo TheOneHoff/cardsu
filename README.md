@@ -1,2 +1,2 @@
-# cardsu
+# Cardsu
 Legally distinct from Cardsy
