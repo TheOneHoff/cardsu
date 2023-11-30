@@ -1,6 +1,6 @@
 # Custom 
-web/node_modules
-data
+web/node_modules/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
